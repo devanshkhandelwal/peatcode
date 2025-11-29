@@ -1,4 +1,2 @@
 # peatcode
 Leetcode Spaced Repetition
-Next billion dollar idea
-12345
